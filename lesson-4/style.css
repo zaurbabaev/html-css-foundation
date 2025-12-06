@@ -1,0 +1,15 @@
+div {
+  background-color: blue;
+  font-size: 28px;
+  width: 400px;
+  height: 400px;
+}
+
+.box-1 {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
