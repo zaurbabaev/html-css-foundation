@@ -1,0 +1,16 @@
+.block {
+  width: 400px;
+  height: 400px;
+  background-color: gray;
+}
+.block__text {
+  color: #f28b64;
+  font-size: 36px;
+}
+
+.block-2 {
+  width: 400px;
+  height: 400px;
+  background-color: gray;
+  margin-top: 20px;
+}/*# sourceMappingURL=style.css.map */

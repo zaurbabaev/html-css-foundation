@@ -1,0 +1,14 @@
+$main-color: #f28b64
+@mixin box
+    width: 400px
+    height: 400px
+    background-color: gray
+
+.block
+    @include box
+    &__text
+        color: $main-color
+        font-size: 36px
+.block-2
+    @include box
+    margin-top: 20px
